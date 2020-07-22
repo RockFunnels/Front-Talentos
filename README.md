@@ -9,9 +9,9 @@
 
 ## Sobre o RockFunnels:
 
-A GoMakers � uma Startup de Educa��o e Automa��o de Marketing Digital localizada na calmaria da cidade de Valinhos.
+O RockFunnels é uma Startup de Tecnologia localizada na calmaria da cidade de Valinhos.
 
-Estamos desenvolvendo um novo SaaS (Software as a Service) que ir� ajudar outras empresas a alavancar vendas online atrav�s de automa��o de marketing digital e estamos � procura de um FrontEnd para nosso time.
+Possuímos uma plaforma inovadora de construção de Páginas e Funis de Vendas para Marketing Digital que ajuda outras empresas a alavancar vendas online através de automação de marketing digital e estamos à procura de um FrontEnd para nosso time.
 
 Se você é foda ou é um entusiasta de novidades, modernidades, maluquices e tendências em tecnologia, Então queremos você no time!
 
@@ -42,9 +42,9 @@ Se vocé é um Desenvolvedor FrontEnd e quer causar impacto na vida das pessoas 
 * Layouts disponíveis abaixo
 
 <p align="center">
-<img src="https://gomakers.blob.core.windows.net:443/gomakers/screen-1.jpg">
-<img src="https://gomakers.blob.core.windows.net:443/gomakers/screen-2.jpg">
-<img src="https://gomakers.blob.core.windows.net:443/gomakers/screen-3.jpg">
+<img src="https://gomakers.blob.core.windows.net/rockfunnels/talentos/screen-1.jpg">
+<img src="https://gomakers.blob.core.windows.net/rockfunnels/talentos/screen-2.jpg">
+<img src="https://gomakers.blob.core.windows.net/rockfunnels/talentos/screen-3.jpg">
 </p>
 
 **Boa sorte e aguarde nosso convite para um café!**
