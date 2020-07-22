@@ -1,0 +1,1 @@
+export const GET_RESTAURANTS = 'restaurant:GET_RESTAURANTS'
